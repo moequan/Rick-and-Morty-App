@@ -5,7 +5,7 @@ function App() {
   const [value,setValue] = useState("");
   return (
     <div>
-      <h1>Test</h1>
+      <h1>Rick and Morty</h1>
     </div>
   );
 }
